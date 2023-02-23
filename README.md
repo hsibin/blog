@@ -1,1 +1,3 @@
 # blog
+
+theme:minima
